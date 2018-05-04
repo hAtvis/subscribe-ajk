@@ -1,0 +1,3 @@
+all:
+	scrapy crawl subscribe
+	

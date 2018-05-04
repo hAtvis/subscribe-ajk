@@ -1,0 +1,4 @@
+.scrapy
+.vscode
+venv
+*.pyc
